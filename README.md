@@ -1,10 +1,8 @@
-<img src="https://maratonadiscover.rocketseat.com.br/images/maratona-rocket.png" width="500" height="531.91">
-
-[layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
-
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
+
+[layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
 
 ```markdown
 ## O que vamos ver hoje?
