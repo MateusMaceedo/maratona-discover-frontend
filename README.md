@@ -2,6 +2,7 @@
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
 
+
 [layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
 
 ```markdown
