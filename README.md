@@ -123,6 +123,6 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 		[] Nem só de classes ou ID's
 ```
 
-- [1° Aula (Docuentação Notion)](https://www.notion.so/Aula-01-45744a4c8a0c455eaa70fcb3e0c9f79c) - :heavy_check_mark:
-- [2° Aula (Docuentação Notion)](https://www.notion.so/Aula-02-e96de013548b42b58f5bee3c803c3a5c) - :heavy_check_mark:
-- [3° Aula (Docuentação Notion)](https://www.notion.so/Aula-03-a075f6aa504c4f52af7acb3ac6345c01) - :heavy_check_mark:
+- [1° Aula (Documentação Notion)](https://www.notion.so/Aula-01-45744a4c8a0c455eaa70fcb3e0c9f79c) - :heavy_check_mark:
+- [2° Aula (Documentação Notion)](https://www.notion.so/Aula-02-e96de013548b42b58f5bee3c803c3a5c) - :heavy_check_mark:
+- [3° Aula (Documentação Notion)](https://www.notion.so/Aula-03-a075f6aa504c4f52af7acb3ac6345c01) - :heavy_check_mark:
