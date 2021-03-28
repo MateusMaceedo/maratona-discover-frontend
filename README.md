@@ -20,6 +20,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 [layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
 
+### Cronograma e atividades nos dias para a criação do projeto
 ```markdown
 ## O que vamos ver hoje?
 
