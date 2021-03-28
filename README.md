@@ -1,8 +1,8 @@
 <h1 align="center">
 <img src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/logo.svg" width="220" height="30.62">
-</h1>
 
 <img src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" width="838" height="517.92">
+</h1>
 
 [layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
 
