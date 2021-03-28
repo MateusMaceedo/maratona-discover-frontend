@@ -1,4 +1,4 @@
-<img src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" width="220px">
+<img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 
 [layout exemplo (você precisa de uma conta no figma.com)](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance-Maratona-Discover/duplicate)
 
