@@ -1,4 +1,4 @@
-<img alt="dev.finances" title="dev.finances" src="/rocketseat-education/maratona-discover-01/raw/main/.github/logo.svg" width="220px" style="max-width:100%;">
+<img src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/logo.svg" width="220" height="30.62">
 
 <img src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" width="838" height="517.92">
 
